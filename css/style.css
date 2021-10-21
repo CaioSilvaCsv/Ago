@@ -1,0 +1,47 @@
+body{
+    background-color:#fffde2ec;
+}
+.logomarca{
+    width: 7%;
+    border: solid 1px;
+    box-shadow: 10px 10px 10px 5px gray;
+}
+
+.nomeio{
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.thegame{
+    font-family: Trattatello, fantasy;
+    color:#979da6 ;
+    text-align: center;
+}
+#menor{
+    width: 25%;
+}
+#maior, #ago1{
+    width: 100%;
+    font-size: 50px;
+}
+a:hover{
+    -webkit-background-clip: text;
+    color: white;
+    -webkit-text-fill-color: transparent;
+    background-color:#FFF;
+    background-image: -webkit-gradient(linear,left top,right top,from(#ea8711), to(#d96363));
+    background-image: -webkit-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
+    background-image: -moz-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
+    background-image: -ms-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
+    background-image: -o-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
+  
+}
+h1{
+    font-family: Snell Roundhand, cursive;
+}
+p{
+    text-align: justify;
+}
+
